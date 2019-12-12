@@ -1,2 +1,2 @@
 # Fila
-Exemplo de estrutura de dados do tipo fila encadeada
+Algoritmo que simula a inscrição de candidatos a vagas de empregos para uma empresa que possui 3 grandes áreas de atuação: sistemas de informação, engenharia de química e engenharia de mecatrônica. Cada candidato se inscreve preenchendo uma ficha com seus dados pessoais e o curso de formação. Esse registro é inserido em uma fila de candidatos a espera da criação de uma vaga de emprego, desde que o curso esteja entre os 3 citados anteriormente.
